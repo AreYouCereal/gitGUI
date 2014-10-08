@@ -12,7 +12,7 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 18px;
     color: #FFFFFF;
     line-height: 56px;
     letter-spacing: -1px;
@@ -35,7 +35,7 @@
     }
 
     .page-link {
-        color: #FF3300;
+        color: #FFFFFF;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -96,13 +96,13 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    background-color: #ff3300;
+    background-color: #504A4B;
     padding: $spacing-unit 0;
 }
 
 .footer-heading {
     font-size: 18px;
-    color: #FFFFFF;
+    color: #FF;
     margin-bottom: $spacing-unit / 2;
 }
 
@@ -114,7 +114,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: #A09A9B;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -171,8 +171,8 @@
 }
 
 .page-heading {
-    font-size: 29px;
-    color: #FF3300;
+    font-size: 20px;
+    color: #A09A9B;
     font-weight: bold;
 }
 
@@ -192,8 +192,9 @@
 
 .post-link {
     display: block;
-    font-size: 24px;
+    font-size: 18px;
     color: #FF3300;
+    font-weight: bold;
 }
 
 

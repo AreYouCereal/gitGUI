@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  "It's Jekyll Time!"
+title:  "You Found Me"
 date:   2014-10-06 19:47:45
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve --watch`, which launches a web server and auto-regenerates your site when a file is updated.
+Okay, i admit it...i was hiding...from ALL OF YOU.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
+Some days are just <em> easier </em> than others i suppose. Whether it's the stacks and stacks of edits i need to do at work...or the never ending list of homework assignments, or final and the most important duty i need to tend to, and that would be, ensuring my son is completing all of HIS homework assignments.  
 
 
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll

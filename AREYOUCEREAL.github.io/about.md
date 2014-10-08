@@ -1,11 +1,8 @@
 ---
 layout: page
-title: About
+title: who i am
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a mom. A student at MakerSquare in Austin, Texas...and...I work full time. Am I <em>insane</em> for doing all of that? Yes. And this is the place where i will tell you all about it...the good, the bad, and the ugly. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
